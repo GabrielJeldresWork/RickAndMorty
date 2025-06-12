@@ -1,0 +1,23 @@
+<div class="container">
+  <h2>API RickAndMorty Episodios</h2>
+
+  <input
+    type="text"
+    placeholder="Buscar episodio por nombre o codigo"
+    [(ngModel)]="filtroTexto"
+    (ngModelChange)="filtrarEpisodios()"
+    class="form-control mb-3"
+  />
+
+  <ul>
+    <li *ngFor="let e of episodiosFiltrados">
+      <strong>{{ e.name }}</strong> - {{ e.episode }} ({{ e.air_date }})
+    </li>
+  </ul>
+
+  <div>
+    <button (click)="anteriorPagina()" [disabled]="paginaActual === 1">Anterior</button>
+    <span>Página {{ paginaActual }} de {{ totalPaginas }}</span>
+    <button (click)="siguientePagina()" [disabled]="paginaActual === totalPaginas">Siguiente</button>
+  </div>
+</div>

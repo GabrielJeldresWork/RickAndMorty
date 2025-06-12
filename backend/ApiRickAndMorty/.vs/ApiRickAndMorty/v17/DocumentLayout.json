@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\interfaces\\iepisodioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:interfaces\\iepisodioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\models\\informacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:models\\informacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\controllers\\episodiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:controllers\\episodiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\services\\episodioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:services\\episodioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|c:\\users\\usuario apiux\\pictures\\gabrieljeldrespruebatecnicacarsales-main\\gabrieljeldrespruebatecnicacarsales-main\\backend\\apirickandmorty\\models\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2952EDEA-4F92-49CF-8E78-BBCA0C991317}|ApiRickAndMorty.csproj|solutionrelative:models\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 599,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:41:46.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EpisodioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Controllers\\EpisodioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EpisodioController.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Controllers\\EpisodioController.cs",
+              "RelativeToolTip": "Controllers\\EpisodioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EpisodioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Services\\EpisodioService.cs",
+              "RelativeDocumentMoniker": "Services\\EpisodioService.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Services\\EpisodioService.cs",
+              "RelativeToolTip": "Services\\EpisodioService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Informacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\Informacion.cs",
+              "RelativeDocumentMoniker": "Models\\Informacion.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\Informacion.cs",
+              "RelativeToolTip": "Models\\Informacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEpisodioServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Interfaces\\IEpisodioServices.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEpisodioServices.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Interfaces\\IEpisodioServices.cs",
+              "RelativeToolTip": "Interfaces\\IEpisodioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:44:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T01:32:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\Episodio.cs",
+              "RelativeDocumentMoniker": "Models\\Episodio.cs",
+              "ToolTip": "C:\\Users\\Usuario Apiux\\Pictures\\GabrielJeldresPruebaTecnicaCarsales-main\\GabrielJeldresPruebaTecnicaCarsales-main\\backend\\ApiRickAndMorty\\Models\\Episodio.cs",
+              "RelativeToolTip": "Models\\Episodio.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:18:13.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
